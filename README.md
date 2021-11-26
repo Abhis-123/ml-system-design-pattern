@@ -1,4 +1,3 @@
-[Japanese](./README_ja.md) [Korean](./README_ko.md)
 # Machine learning system design pattern
 This repository contains system design patterns for training, serving and operation of machine learning systems in production.
 
